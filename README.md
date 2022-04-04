@@ -29,7 +29,7 @@
 ```
 
 * Maka hasilnya akan seperti berikut.
-![struktur](img/box%20element%203.PNG)
+![struktur](img/box%20element%203.png)
 ## 2. Membuat Layout 
 * kemudian Membuat header Sederhana
 <!-- Ini adalah paragraf pertama -->
