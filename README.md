@@ -29,7 +29,7 @@
 ```
 
 * Maka hasilnya akan seperti berikut.
-![struktur](img/box element 3.PNG)
+![struktur](img/box%20element%203.PNG)
 ## 2. Membuat Layout 
 * kemudian Membuat header Sederhana
 <!-- Ini adalah paragraf pertama -->
@@ -55,7 +55,7 @@
 ```
 
 * model header dan nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout 1.PNG)
+![internal](img/layout%201.PNG)
 
 ## 3. Membuat Layout Lanjutan
 * selanjutnya membuat nav dan hero wrapper Html Lanjutan 
@@ -74,7 +74,7 @@ body {
 
 ```
 * model nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout 3.PNG)
+![internal](img/layout%203.PNG)
 ## 3. Membuat Layout Lanjutan
 * selanjutnya membuat nav dan hero wrapper Html Lanjutan 
 ```
@@ -93,7 +93,7 @@ body {
         </section>
 ```
 * model nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout 4.PNG)
+![internal](img/layout%204.PNG)
 
 ## 4. Membuat Layout Lanjutan
 * selanjutnya membuat nav dan hero wrapper Html Lanjutan 
@@ -113,7 +113,7 @@ body {
         </section>
 ```
 * model nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout3.png)
+![internal](img/layout%203.PNG)
 
 ## 4. Membuat Layout Lanjutan
 * selanjutnya membuat widget Html Lanjutan 
@@ -136,7 +136,7 @@ body {
             </aside>
 ```
 * model nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout 6.PNG)
+![internal](img/layout%206.PNG)
 
 ## 5. Membuat Layout Lanjutan
 * selanjutnya membuat circle Html Lanjutan 
@@ -179,7 +179,7 @@ body {
 ```
 .
 * model nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout 7.PNG)
+![internal](img/layout%207.PNG)
 ## 6. Membuat Layout Lanjutan
 * selanjutnya membuat feature heading Html Lanjutan 
 ```
@@ -197,7 +197,7 @@ body {
                     </article>
 ```
 * model divider pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout 8.PNG)
+![internal](img/layout%208.PNG)
 
 ## 4. Hasil Layout
 * maka hasil nya sebagai berikut
@@ -286,7 +286,7 @@ body {
 </html>
 ```
 * hasil nya ini.
-![internal](img/layout 8.PNG)
+![internal](img/layout%208.PNG)
 
 
 
